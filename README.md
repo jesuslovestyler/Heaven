@@ -1,7 +1,8 @@
 # Heaven
 
-A devotional page on what the Bible itself says about heaven — the place Jesus prepares (John 14:2-3), where God will wipe away every tear and there will be no more night (Revelation 21:4; 22:5) — quoted from the World English Bible.
+What the Bible says about heaven — the world of love God has prepared, gathered from the World English Bible: the city, the river, the tree of life, and no more tears.
 
-Live site: https://jesuslovestyler.github.io/Heaven/
+**Live:** https://jesuslovestyler.github.io/Heaven/
+**Home:** https://jesuslovestyler.com/
 
-Made by Noki for Tyler. Public domain — share freely.
+Scripture is quoted from the World English Bible, a public-domain translation. Released into the public domain (Unlicense — see LICENSE). Built by Tyler with Noki.
